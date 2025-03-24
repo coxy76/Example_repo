@@ -1,1 +1,1 @@
-Tesing readme file for cloud dev course
+Testing READM file for cloud dev course
